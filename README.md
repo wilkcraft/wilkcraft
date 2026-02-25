@@ -5,11 +5,8 @@ Desarrollador Web Full Stack especializado en Frontend moderno y Backend con Nod
 </p>
 
 <p align="center">
-<a href="https://www.wilkcraft.work">
+<a href="https://www.wilkcraft.work" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-40739e?style=for-the-badge&labelColor=2f3640">
-</a>
-<a href="https://github.com/wilkcraft">
-  <img src="https://img.shields.io/badge/GitHub-2f3640?style=for-the-badge&logo=github">
 </a>
 </p>
 
