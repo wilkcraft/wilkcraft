@@ -73,18 +73,6 @@ Mundo de fantasía original con lore propio y web inmersiva temática.
 
 ---
 
-## 📊 Estadísticas
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wilkcraft&show_icons=true&title_color=40739e&icon_color=40739e&text_color=2f3640&bg_color=f5f6fa&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkcraft&layout=compact&title_color=40739e&text_color=2f3640&bg_color=f5f6fa&hide_border=true" />
-</p>
-
----
-
 ## 📍 Disponibilidad
 
 📍 España · Trabajo remoto  
