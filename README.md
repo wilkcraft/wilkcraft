@@ -1,8 +1,8 @@
 <h1 align="center">Wilkcraft</h1>
 
 <p align="center">
-Desarrollador Web Full Stack especializado en Frontend moderno y Backend con Node.js y Python.
-</p>
+Desarrollador Web Full Stack que convierte ideas en aplicaciones web rápidas, claras y escalables.<br>
+Especializado en Frontend moderno y Backend con Node.js y Python.</p>
 
 <p align="center">
 <a href="https://www.wilkcraft.work" target="_blank" rel="noopener noreferrer">
@@ -14,28 +14,36 @@ Desarrollador Web Full Stack especializado en Frontend moderno y Backend con Nod
 
 ## ⚡ Sobre mí
 
-Desarrollo aplicaciones web rápidas, claras y escalables que convierten ideas en proyectos reales.
+Soy desarrollador web enfocado en crear soluciones claras, eficientes y bien estructuradas. Me especializo en frontend moderno, backend con Node.js y automatización con Python.
 
-Me especializo en:
+Disfruto especialmente desarrollando proyectos reales con utilidad práctica, como plataformas educativas, herramientas web y sistemas que automatizan tareas que mejoran la experiencia del usuario.
 
-- Frontend moderno y experiencia de usuario
-- Backend con Node.js (Express, JWT, APIs REST)
-- Automatización y herramientas con Python
-- Sistemas CRUD con PHP y MySQL
-
-Busco siempre equilibrio entre rendimiento, claridad y escalabilidad.
+Me implico en cada proyecto cuidando tanto el diseño como la lógica interna, buscando siempre un equilibrio entre rendimiento, claridad y escalabilidad.
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🧑‍💻 En qué soy bueno
 
-### 🎨 Frontend
-HTML5 · CSS3 · JavaScript · React.js · Diseño Responsivo · UX
+### Qué se programar
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,php,mysql,firebase,docker&perline=12" />
+  </a>
+</p>
 
-### ⚙️ Backend
-Node.js · Express · JWT · APIs REST · Microservicios  
-Python (automatización, scripts, mini APIs)  
-PHP (CRUDs, sistemas de login, paneles admin)
+### Qué herramientas uso
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,github,markdown&perline=12" />
+  </a>
+</p>
+
+### Sistemas Operativos
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux&perline=12" />
+  </a>
+</p>
 
 ---
 
@@ -78,6 +86,16 @@ Mundo de fantasía original con lore propio y web inmersiva temática.
 📍 España · Trabajo remoto  
 ⚡ Respondo en menos de 24h  
 💼 Disponible para proyectos freelance  
+
+---
+
+## 💡 Qué puedo aportar a tu proyecto
+
+✔️ Arquitecturas limpias y escalables  
+✔️ Código mantenible y bien estructurado  
+✔️ Experiencia de usuario clara y optimizada  
+✔️ Automatización de procesos repetitivos  
+✔️ Comunicación directa y profesional  
 
 ---
 
