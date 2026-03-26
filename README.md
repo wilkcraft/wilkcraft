@@ -1,8 +1,8 @@
 <h1 align="center">Wilkcraft</h1>
 
 <p align="center">
-Desarrollador Web Full Stack que convierte ideas en aplicaciones web rápidas, claras y escalables.<br>
-Especializado en Frontend moderno y Backend con Node.js y Python.</p>
+Full Stack Web Developer turning ideas into fast, clear, and scalable web applications.<br>
+Specialized in modern Frontend and Backend with Node.js and Python.</p>
 
 <p align="center">
 <a href="https://www.wilkcraft.work" target="_blank" rel="noopener noreferrer">
@@ -12,33 +12,33 @@ Especializado en Frontend moderno y Backend con Node.js y Python.</p>
 
 ---
 
-## ⚡ Sobre mí
+## ⚡ About Me
 
-Soy desarrollador web enfocado en crear soluciones claras, eficientes y bien estructuradas. Me especializo en frontend moderno, backend con Node.js y automatización con Python.
+I am a web developer focused on creating clear, efficient, and well-structured solutions. I specialize in modern frontend, backend with Node.js, and automation with Python.
 
-Disfruto especialmente desarrollando proyectos reales con utilidad práctica, como plataformas educativas, herramientas web y sistemas que automatizan tareas que mejoran la experiencia del usuario.
+I particularly enjoy developing real-world projects with practical applications, such as educational platforms, web tools, and systems that automate tasks to enhance user experience.
 
-Me implico en cada proyecto cuidando tanto el diseño como la lógica interna, buscando siempre un equilibrio entre rendimiento, claridad y escalabilidad.
+I immerse myself in every project, taking care of both design and internal logic, always aiming for a balance between performance, clarity, and scalability.
 
 ---
 
-## 🧑‍💻 En qué soy bueno
+## 🧑‍💻 My Skills
 
-### Qué se programar
+### Programming Knowledge
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,php,mysql,firebase,docker&perline=12" />
   </a>
 </p>
 
-### Qué herramientas uso
+### Tools I Use
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,github,markdown&perline=12" />
   </a>
 </p>
 
-### Sistemas Operativos
+### Operating Systems
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux&perline=12" />
@@ -47,10 +47,10 @@ Me implico en cada proyecto cuidando tanto el diseño como la lógica interna, b
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
-### 🧪 Web Escolar de Química
-Plataforma educativa interactiva con tests dinámicos sobre formulación y reactividad química.
+### 🧪 Chemistry School Web
+Interactive educational platform with dynamic tests on chemical formulation and reactivity.
 
 🔗 https://formulacion.wilkcraft.work  
 💻 https://github.com/wilkcraft/formulacion
@@ -58,7 +58,7 @@ Plataforma educativa interactiva con tests dinámicos sobre formulación y react
 ---
 
 ### 🎮 Percxy Hub
-Web informativa del canal de YouTube Percxy con integración a comunidad Minecraft.
+Informational website for the YouTube channel Percxy with Minecraft community integration.
 
 🔗 https://percxy.wilkcraft.work  
 💻 https://github.com/wilkcraft/percxy
@@ -66,7 +66,7 @@ Web informativa del canal de YouTube Percxy con integración a comunidad Minecra
 ---
 
 ### 🛡 Fantasy Survivals
-Web oficial + Bot de Discord con información en tiempo real y herramientas administrativas.
+Official website + Discord Bot with real-time information and administrative tools.
 
 🔗 https://fs.wilkcraft.work  
 💻 https://github.com/wilkcraft/fs
@@ -74,42 +74,42 @@ Web oficial + Bot de Discord con información en tiempo real y herramientas admi
 ---
 
 ### 🏰 Aethelgard
-Mundo de fantasía original con lore propio y web inmersiva temática.
+Original fantasy world with its own lore and immersive themed website.
 
 🔗 https://aethelgard.wilkcraft.work  
 💻 https://github.com/wilkcraft/aethelgard
 
 ---
 
-## 📍 Disponibilidad
+## 📍 Availability
 
-📍 España · Trabajo remoto  
-⚡ Respondo en menos de 24h  
-💼 Disponible para proyectos freelance  
-
----
-
-## 💡 Qué puedo aportar a tu proyecto
-
-✔️ Arquitecturas limpias y escalables  
-✔️ Código mantenible y bien estructurado  
-✔️ Experiencia de usuario clara y optimizada  
-✔️ Automatización de procesos repetitivos  
-✔️ Comunicación directa y profesional  
+📍 Spain · Remote work  
+⚡ Respond within 24h  
+💼 Available for freelance projects  
 
 ---
 
-## 📬 Contacto
+## 💡 What I Can Bring to Your Project
+
+✔️ Clean and scalable architectures  
+✔️ Maintainable and well-structured code  
+✔️ Clear and optimized user experience  
+✔️ Automation of repetitive processes  
+✔️ Direct and professional communication  
+
+---
+
+## 📬 Contact
 
 📧 vallejogarijomiguel@gmail.com  
 💬 WhatsApp: +34 663 674 441  
 
-O directamente desde mi web:
+Or directly via my website:
 
 👉 https://www.wilkcraft.work
 
 ---
 
 <p align="center">
-© 2026 · Desarrollado por Wilkcraft
+© 2026 · Developed by Wilkcraft
 </p>
