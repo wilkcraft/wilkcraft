@@ -27,14 +27,14 @@ I immerse myself in every project, taking care of both design and internal logic
 ### Programming Knowledge
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,php,mysql,firebase,docker&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,python,java,php,mysql,firebase,docker&perline=12" />
   </a>
 </p>
 
 ### Tools I Use
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,markdown&perline=12" />
+    <img src="https://skillicons.dev/icons?i=vscode,github&perline=12" />
   </a>
 </p>
 
