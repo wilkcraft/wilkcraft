@@ -57,14 +57,6 @@ Interactive educational platform with dynamic tests on chemical formulation and 
 
 ---
 
-### 🎮 Percxy Hub
-Informational website for the YouTube channel Percxy with Minecraft community integration.
-
-🔗 https://percxy.wilkcraft.work  
-💻 https://github.com/wilkcraft/percxy
-
----
-
 ### 🛡 Fantasy Survivals
 Official website + Discord Bot with real-time information and administrative tools.
 
@@ -78,6 +70,23 @@ Original fantasy world with its own lore and immersive themed website.
 
 🔗 https://aethelgard.wilkcraft.work  
 💻 https://github.com/wilkcraft/aethelgard
+
+---
+
+### 🔗 Link Sender (Minecraft Plugin)
+Simple and efficient plugin to create and send clickable links in Minecraft chat.
+
+🔗 https://modrinth.com/plugin/link-sender
+💻 https://github.com/wilkcraft/linkSender
+
+---
+
+### 🛒 Online Shop Demo (Spanish)
+Fully functional online store with cart system, checkout flow and payment simulation (Stripe test mode).
+
+🔗 https://shop.wilkcraft.work  
+💻 https://github.com/wilkcraft/shop
+💳 Test card: 4242 4242 4242 4242 · 12/34 · 123
 
 ---
 
