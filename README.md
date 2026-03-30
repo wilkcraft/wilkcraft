@@ -110,7 +110,7 @@ Fully functional online store with cart system, checkout flow and payment simula
 
 ## 📬 Contact
 
-📧 contact@wilkcraft.work 
+📧 contact@wilkcraft.work  
 💬 WhatsApp: +34 663 674 441  
 
 Or directly via my website:
