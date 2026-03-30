@@ -76,7 +76,7 @@ Original fantasy world with its own lore and immersive themed website.
 ### 🔗 Link Sender (Minecraft Plugin)
 Simple and efficient plugin to create and send clickable links in Minecraft chat.
 
-🔗 https://modrinth.com/plugin/link-sender
+🔗 https://modrinth.com/plugin/link-sender  
 💻 https://github.com/wilkcraft/linkSender
 
 ---
@@ -85,7 +85,7 @@ Simple and efficient plugin to create and send clickable links in Minecraft chat
 Fully functional online store with cart system, checkout flow and payment simulation (Stripe test mode).
 
 🔗 https://shop.wilkcraft.work  
-💻 https://github.com/wilkcraft/shop
+💻 https://github.com/wilkcraft/shop  
 💳 Test card: 4242 4242 4242 4242 · 12/34 · 123
 
 ---
@@ -110,7 +110,7 @@ Fully functional online store with cart system, checkout flow and payment simula
 
 ## 📬 Contact
 
-📧 vallejogarijomiguel@gmail.com  
+📧 contact@wilkcraft.work 
 💬 WhatsApp: +34 663 674 441  
 
 Or directly via my website:
