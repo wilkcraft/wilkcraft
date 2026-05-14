@@ -60,7 +60,7 @@ Interactive educational platform with dynamic tests on chemical formulation and 
 ### 💬 Chat Channels (Minecraft Plugin)
 Lightweight chat channels plugin for Paper that lets players switch between channels and sync messages to Discord via webhooks.
 
-🔗 https://modrinth.com/plugin/chat-channels-wilkcraft
+🔗 https://modrinth.com/plugin/chat-channels-wilkcraft  
 💻 https://github.com/wilkcraft/chat-channels
 
 ---
@@ -76,7 +76,7 @@ Is a simple plugin to create and send clickable links in Minecraft chat. Manage 
 ### 🔒 Safe Chest (Minecraft Plugin)
 Is a simple plugin to protect your chests with ownership rights, access for friends and full control. Simple, lightweight and secure.
 
-🔗 https://modrinth.com/plugin/safe-chest
+🔗 https://modrinth.com/plugin/safe-chest  
 💻 https://github.com/wilkcraft/safe-chest
 
 ---
