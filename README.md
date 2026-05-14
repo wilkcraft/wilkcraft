@@ -57,27 +57,27 @@ Interactive educational platform with dynamic tests on chemical formulation and 
 
 ---
 
-### 🛡 Fantasy Survivals
-Official website + Discord Bot with real-time information and administrative tools.
+### 💬 Chat Channels (Minecraft Plugin)
+Lightweight chat channels plugin for Paper that lets players switch between channels and sync messages to Discord via webhooks.
 
-🔗 https://fs.wilkcraft.work  
-💻 https://github.com/wilkcraft/fs
-
----
-
-### 🏰 Aethelgard
-Original fantasy world with its own lore and immersive themed website.
-
-🔗 https://aethelgard.wilkcraft.work  
-💻 https://github.com/wilkcraft/aethelgard
+🔗 https://modrinth.com/plugin/chat-channels-wilkcraft
+💻 https://github.com/wilkcraft/chat-channels
 
 ---
 
 ### 🔗 Link Sender (Minecraft Plugin)
-Simple and efficient plugin to create and send clickable links in Minecraft chat.
+Is a simple plugin to create and send clickable links in Minecraft chat. Manage links easily with commands and permissions.
 
 🔗 https://modrinth.com/plugin/link-sender  
 💻 https://github.com/wilkcraft/linkSender
+
+---
+
+### 🔒 Safe Chest (Minecraft Plugin)
+Is a simple plugin to protect your chests with ownership rights, access for friends and full control. Simple, lightweight and secure.
+
+🔗 https://modrinth.com/plugin/safe-chest
+💻 https://github.com/wilkcraft/safe-chest
 
 ---
 
@@ -87,6 +87,13 @@ Fully functional online store with cart system, checkout flow and payment simula
 🔗 https://shop.wilkcraft.work  
 💻 https://github.com/wilkcraft/shop  
 💳 Test card: 4242 4242 4242 4242 · 12/34 · 123
+
+---
+
+### 👑 Imperio Universal
+Official website of the Universal Empire server. Events and active community. Join now!
+
+🔗 https://iu.wilkcraft.work
 
 ---
 
