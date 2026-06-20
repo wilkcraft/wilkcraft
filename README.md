@@ -81,6 +81,15 @@ Is a simple plugin to protect your chests with ownership rights, access for frie
 
 ---
 
+### 🌍 Build Sandbox (Minecraft Mod)
+Creates a separate creative flat world for testing builds without affecting survival gameplay.
+
+🔗 https://modrinth.com/mod/build-sandbox  
+🔗 https://www.curseforge.com/minecraft/mc-mods/build-sandbox 
+💻 https://github.com/wilkcraft/BuildSandbox
+
+---
+
 ### 🛒 Online Shop Demo (Spanish)
 Fully functional online store with cart system, checkout flow and payment simulation (Stripe test mode).
 
