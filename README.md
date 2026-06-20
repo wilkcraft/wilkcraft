@@ -85,7 +85,7 @@ Is a simple plugin to protect your chests with ownership rights, access for frie
 Creates a separate creative flat world for testing builds without affecting survival gameplay.
 
 🔗 https://modrinth.com/mod/build-sandbox  
-🔗 https://www.curseforge.com/minecraft/mc-mods/build-sandbox 
+🔗 https://www.curseforge.com/minecraft/mc-mods/build-sandbox  
 💻 https://github.com/wilkcraft/BuildSandbox
 
 ---
